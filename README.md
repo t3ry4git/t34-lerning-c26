@@ -14,4 +14,8 @@ I already have a solid foundation in C, but much of my knowledge comes from an o
 
 I am working through [*Modern C, Third Edition*](https://gustedt.gitlabpages.inria.fr/modern-c/) by Jens Gustedt, which covers the C23 standard. I will follow the structure of the book as I organize my notes in this repository.
 
+## Lessons
+
+- [Level 0, Lesson 1: Getting started](level-0/lesson-1/notes.md)
+
 Let's get started!
