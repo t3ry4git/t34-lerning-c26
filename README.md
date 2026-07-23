@@ -17,5 +17,6 @@ I am working through [*Modern C, Third Edition*](https://gustedt.gitlabpages.inr
 ## Lessons
 
 - [Level 0, Lesson 1: Getting started](level-0/lesson-1/notes.md)
+- [Level 0, Lesson 2: The principal structure of a program](level-0/lesson-2/notes.md)
 
 Let's get started!
