@@ -18,5 +18,7 @@ I am working through [*Modern C, Third Edition*](https://gustedt.gitlabpages.inr
 
 - [Level 0, Lesson 1: Getting started](level-0/lesson-1/notes.md)
 - [Level 0, Lesson 2: The principal structure of a program](level-0/lesson-2/notes.md)
+- [Level 1, Lesson 3: Buckle up](level-1/lesson-3/notes.md)
+- [Level 1, Lesson 4: Expressing computations](level-1/lesson-4/notes.md)
 
 Let's get started!
